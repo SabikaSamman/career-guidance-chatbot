@@ -38,14 +38,3 @@ Custom dataset of career-related questions and roles:
 `career_guidance_dataset.csv`
 
 ---
-
-## 📂 Project Structure
-
-career_chatbot_project/
-│
-├── app.py # Streamlit app
-├── train_model.py # ML model training script
-├── career_guidance_dataset.csv
-├── intent_model.pkl # Trained Naive Bayes model
-├── vectorizer.pkl # TF-IDF vectorizer
-├── requirements.txt # Project dependencies
