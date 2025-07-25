@@ -6,7 +6,7 @@ An AI-powered chatbot that provides career suggestions based on user questions u
 
 ## 🚀 Demo
 
-[Click here to try the app live](https://your-streamlit-url.streamlit.app)
+[Click here to try the app live]([https://your-streamlit-url.streamlit.ap](https://career-guidance-chatbot-edozxbdr9irf9actnc8cky.streamlit.app/#career-guidance-chatbot)
 
 ---
 
@@ -41,3 +41,11 @@ Custom dataset of career-related questions and roles:
 
 ## 📂 Project Structure
 
+career_chatbot_project/
+│
+├── app.py # Streamlit app
+├── train_model.py # ML model training script
+├── career_guidance_dataset.csv
+├── intent_model.pkl # Trained Naive Bayes model
+├── vectorizer.pkl # TF-IDF vectorizer
+├── requirements.txt # Project dependencies
